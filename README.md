@@ -12,3 +12,7 @@ VGG-16 code
 ResNet-50 code
 链接：https://pan.baidu.com/s/1Ad_JMEREHcTO5nOApqx7eA 
 提取码：1111
+
+dataset(医学图像数据)
+链接：https://pan.baidu.com/s/15Va6TLwoyujxnBJYufHOhg 
+提取码：1111
